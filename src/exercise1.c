@@ -11,5 +11,5 @@ double a[10] = {};
     for(int i = 0; i<10; i++){
         c+=a[i];
     }
-    printf("%.2f", c/10);
+    printf("%f", c/10);
 }
